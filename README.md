@@ -1,25 +1,16 @@
-# SQL Project
+# SQL Joins Tutorial 📊
 
-This project contains SQL scripts for creating, populating, and querying a relational database. It is intended for data analysis, schema design, and business intelligence use cases.
+This repository contains practical examples and exercises demonstrating various types of **SQL JOINs**. These JOINs are used to combine rows from two or more tables based on related columns.
 
-## 🗃️ Contents
+## 📘 What You'll Learn
 
-- `schema.sql` – Creates the database tables and relationships.
-- `data.sql` – Inserts sample or production data.
-- `queries.sql` – Includes select queries for insights or reporting.
-- `views.sql` – Contains reusable SQL views.
-- `procedures.sql` – (Optional) Stored procedures or functions.
+- 🔹 INNER JOIN  
+- 🔹 LEFT JOIN (LEFT OUTER JOIN)  
+- 🔹 RIGHT JOIN (RIGHT OUTER JOIN)  
+- 🔹 FULL OUTER JOIN  
+- 🔹 CROSS JOIN  
+- 🔹 SELF JOIN  
+- 🔹 JOINs with GROUP BY and HAVING
 
-## 🧰 Requirements
 
-- Any SQL-compatible RDBMS (e.g., MySQL, PostgreSQL, SQLite)
-- A SQL client (e.g., DBeaver, pgAdmin, MySQL Workbench, or CLI)
-- Access credentials (username/password)
 
-## 🚀 Setup Instructions
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/sql-project.git
-cd sql-project
